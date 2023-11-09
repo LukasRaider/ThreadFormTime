@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\bin\Debug\ThreadFormTime.exe.config
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\bin\Debug\ThreadFormTime.exe
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\bin\Debug\ThreadFormTime.pdb
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.Control_panel.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.exe
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.pdb
+C:\Users\Lenovo\source\repos\CSharpAdvance\ThreadFormTime\ThreadFormTime\obj\Debug\ThreadFormTime.Control_panel2.resources

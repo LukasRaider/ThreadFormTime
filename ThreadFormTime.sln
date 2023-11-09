@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThreadFormTime", "ThreadFormTime.csproj", "{A36B557F-E756-4727-A325-C305463E3019}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "implementation", "implementation", "{B4F3C403-02A4-4CC3-9629-3BAB3F615584}"
+	ProjectSection(SolutionItems) = preProject
+		Clock.cs = Clock.cs
+		ClockCanc.cs = ClockCanc.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A36B557F-E756-4727-A325-C305463E3019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A36B557F-E756-4727-A325-C305463E3019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A36B557F-E756-4727-A325-C305463E3019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A36B557F-E756-4727-A325-C305463E3019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4092891-FB48-407A-B38A-3A3173FD213A}
+	EndGlobalSection
+EndGlobal
